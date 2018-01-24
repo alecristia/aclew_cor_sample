@@ -1,6 +1,7 @@
 # Ignore everything
 *
 
+
 # But not these files...
 !.gitignore
 !random/
@@ -9,7 +10,7 @@
 
 !**.eaf
 !**.pfsx
-!**correspondence.xls*
+!**correspos*
 !**README**
 # etc...
 
