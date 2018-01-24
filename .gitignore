@@ -3,8 +3,13 @@
 
 # But not these files...
 !.gitignore
+!random/
+!starter/
+!training/
+
 !**.eaf
 !**.pfsx
 !**correspondence.xls*
+!**README**
 # etc...
 
